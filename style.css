@@ -1,0 +1,150 @@
+
+
+.navbar-brand {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.front {
+    /* margin-left: 400px;
+    margin-right: 400px; */
+    align-content: center;
+}
+
+.company {
+    float: right;
+}
+#animation {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation: moveUpandDown 5s infinite;
+}
+@keyframes moveUpandDown {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-40px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.btn0 a {
+    text-decoration: none;
+    color: grey;
+    font-weight: 500;
+    font-size: larger;
+
+}
+
+.container1 .row {
+
+    position: relative;
+    margin: auto;
+
+    top: 50%;
+    
+    padding: 10px;
+
+}
+
+.devotee col  {
+   
+    display: inline;
+   
+    
+ 
+   
+}
+
+.businessimg {
+    float: right;
+}
+
+.link td a {
+    text-decoration: none;
+    color: grey;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    font-weight: 800;
+    background: linear-gradient(to right, rgb(242, 98, 98), rgb(134, 22, 22));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image1 {
+    position: relative;
+    margin-top: 50px;
+    float: right;
+    top: 0;
+    left: 0;
+
+}
+
+.image3 {
+    margin-top: 150px;
+    margin-left: 300px;
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+
+.image2 {
+    position: absolute;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    margin-left: 50px;
+    top: 150px;
+    left: 50px;
+
+}
+.parent1 {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.image5 {
+    position: relative;
+    float: right;
+    margin-top: 150px;
+}
+
+
+.link2 a {
+    text-decoration: none;
+    color: grey;
+
+}
+
+
+.form1 {
+    margin-left: 700px;
+    
+}
+
+
+
+
+
